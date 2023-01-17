@@ -1,0 +1,1 @@
+cout << arr[a + i] << " " << arr[a - i] << endl;
